@@ -2,4 +2,4 @@
 def say_hello (name = "Ruby Programmer")
   puts Hash.new { |hash, key| hash[key] =  }ello #{name}!
 end
-say_hello 
+say_hello
